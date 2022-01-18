@@ -19,7 +19,7 @@ locale                   : "en-US"
 title                    : "지혜의 깃허브 블로그"
 title_separator          : "-"
 subtitle                 : "2022.01.17~"
-name                     : "YOO-Ji-Hye"
+name                     : "Yoo-Ji-Hye"
 description              : "2022.01.17~"
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
@@ -102,15 +102,15 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : "유지혜"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
+  bio              : "GITHUB**KEEP**HYE"
   location         : "Somewhere"
   email            :
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      # url: "mailto:your.name@email.com"
+       url: "mailto:yoojihea60@gmail.com"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
