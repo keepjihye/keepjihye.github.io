@@ -16,10 +16,10 @@ minimal_mistakes_skin    : "dark" # "air", "aqua", "contrast", "dark", "dirt", "
 
 # Site Settings
 locale                   : "en-US"
-title                    : "keepjihye"
+title                    : "지혜의 깃허브 블로그e"
 title_separator          : "-"
-subtitle                 : # site tagline that appears below site title in masthead
-name                     : "지혜의 깃허브 블로그"
+subtitle                 : "2022.01.17!"
+name                     : "YOO-Ji-Hye"
 description              : "2022.01.17~"
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
