@@ -105,8 +105,8 @@ author:
   name             : "유지혜"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "GITHUB**KEEP**HYE"
-  location         : "Somewhere"
-  email            :
+  location         : "대한민국"
+  email            : "yoojihea60@gmail.com"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
