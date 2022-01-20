@@ -102,10 +102,10 @@ analytics:
 
 # Site Author
 author:
-  name             : "유지혜"
+  name             : "yoojihye"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "GITHUB**KEEP**HYE"
-  location         : "대한민국"
+  location         : "Korea"
   email            : "yoojihea60@gmail.com"
   links:
     - label: "Email"
